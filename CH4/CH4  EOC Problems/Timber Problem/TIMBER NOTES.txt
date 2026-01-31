@@ -1,0 +1,7 @@
+The total amount cut down is 11,500 acres and 2500 acres untouched
+
+So the program will need to run the acres growth rate calc until the acres <= 11500 
+
+It will record the years at which this occurs and print it out to the user
+
+Used a while loop to determine when to stop the calculation after the "growth" was <= the amount cut down

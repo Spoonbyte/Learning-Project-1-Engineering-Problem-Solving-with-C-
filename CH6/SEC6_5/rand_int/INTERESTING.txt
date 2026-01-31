@@ -1,0 +1,20 @@
+11/15/24 @ 2:16PM
+I was working on this problem and I was trying make it work this way:
+
+Every time I restart the program, I'd want it to create a new random 
+number with the SAME given range...but it would just make the same 
+random number each time. 
+
+The only way it works is if the rand_int function is called more than 
+once within the main function (ie multiple times while the program is "alive"). Also for this to work the "srand()" function needs to be used 
+and a "seed" variable with type static...or else when you call the function
+multiple within the same program lifetime (process) it will give you the same "random" number. 
+
+The only solution I could think of to make the program truly random EACH time you start the program (new process) is that once you are done incrementing "seed" you write the value to an output file and then read it in upon the next rand_int function call. Then it will overwrite the old seed value once that function call is done...and so on.
+
+-------------------------------------------------------
+
+11/15/24 @ 2:43PM
+
+I was able to implement my idea above and it WORKED!!!
+Just used a text file to read/write the incremented seed values.

@@ -1,0 +1,3 @@
+This is a simple program that uses a "static" storage class to keep the local variable alive during the program lifespan. 
+
+The author points out this can be useful to keep track of how often a function is called from a program...this could be very useful when troubleshooting a issue I have in the future.

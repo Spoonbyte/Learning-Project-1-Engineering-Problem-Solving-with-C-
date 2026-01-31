@@ -1,0 +1,21 @@
+FIRST ATTEMPT:
+-----------------------
+I was curious how using "x" as a global variable would work.
+ 
+It seems to have worked well when I fed the value of "a" into x 
+then just incremented from there to plot the function.
+
+FURTHER ATTEMPTS:
+-----------------------
+Now I just need to understand how the 0/0 point works, since the 
+books shows to just set that point to 1....
+
+not sure how sin(0)/0 = 1??? 
+Apparently you have to use l'Hopitals Rule?
+
+Also I really don't remember WHY sin(0) = 0 in the first place...
+
+USINIG SCILAB (10/2/24):
+--------------------------
+I used scilab to plot the outputs but I had to split the data into a "x" file and a "sincx" file.
+That's the way it seems the fscanfMat function works, not sure how to do it without splitting the data.

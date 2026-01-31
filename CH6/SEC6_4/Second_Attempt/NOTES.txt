@@ -1,0 +1,3 @@
+Next steps are to understand how the book solved the problem and see ways I did better or they did better. 
+
+Also to understand a little more about how the references worked.

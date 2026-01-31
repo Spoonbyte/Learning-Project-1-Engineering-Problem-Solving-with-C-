@@ -1,0 +1,3 @@
+When I put 0 - 500 as the range I noticed the random numbers were always increasing.
+
+I only noticed actual randomness when I put smaller ranges...not sure why?

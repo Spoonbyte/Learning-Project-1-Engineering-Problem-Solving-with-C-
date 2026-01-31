@@ -1,0 +1,8 @@
+Had the thought while working on the Sec 8.6 problem that I dont think this is how we would be 
+solving a electrical engineer problem with code...I think it would be more of figuring out how 
+to solve....ehh never mind...as I was writing this I had the other thought that the point of this 
+problem is to MODEL the system of the provided circuit to be able to solve for the currents
+
+it is essentially a circuit simulation problem which can be useful when designing circuits 
+
+But it is not necessarily code that will go be in a product (like uploaded to a processor)

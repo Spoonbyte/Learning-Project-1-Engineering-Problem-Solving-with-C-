@@ -1,0 +1,5 @@
+Want to understand why when defining a function that passes an array 
+is "const" use...for example int function(const double x[], int n)
+
+In the book its said that's to prevent the function from modifying the
+original array but HOW can this be done?

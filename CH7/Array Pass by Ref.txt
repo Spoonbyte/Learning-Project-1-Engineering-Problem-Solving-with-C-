@@ -1,0 +1,10 @@
+There is a very significant difference in using arrays as parameters, and using simple
+objects as parameters. When a simple object is used as a parameter, the default is always a
+pass by value. When an array is used as a parameter, it is always a pass by reference. Recall that a pass by reference means that the memory address of the argument, rather than
+the value, is passed to the formal parameter. When an array is used as a parameter, the address of the first element is passed to the function. The function uses this address, along with
+an integer offset, to reference values in the original array, as illustrated in Figure 7.2 and
+Figure 7.3. Any changes made to the array in the function are made directly to the array argument. Because a function accesses the array argument directly, we must be very careful not
+to inadvertently change values in an array within a function. Of course, there may be occasions when we wish to change the values in the array, as we will see in later examples in this
+chapter.
+
+pg 322 in cpp

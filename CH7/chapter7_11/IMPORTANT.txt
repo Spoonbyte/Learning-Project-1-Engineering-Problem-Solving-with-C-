@@ -1,0 +1,7 @@
+I think the closeToOrigin ()
+function created in this exercise may 
+be helpful in future problems with 
+2D mapping....
+
+Would be interesting to create a 3D 
+point class...

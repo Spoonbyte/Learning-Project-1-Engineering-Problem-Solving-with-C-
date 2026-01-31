@@ -1,0 +1,13 @@
+Might be able to create a 4 way state machine.
+Not sure if this would be easier than the nested 
+if statements?
+
+Rough example below:
+--------------------------------------------------
+
+$ | . | ( | ) |
+===============
+
+0   0   0   0
+1   0   0   0
+1   1   0   0

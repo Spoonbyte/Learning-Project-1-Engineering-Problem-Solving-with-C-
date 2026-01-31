@@ -1,0 +1,5 @@
+2 Sources to get some raw data to work with:
+
+https://sites.google.com/ucar.edu/operational-models-encyclo/deterministic-models/analyses/rtma-urma
+
+https://docs.tomorrow.io/reference/welcome

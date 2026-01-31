@@ -1,0 +1,16 @@
+There were 13 distinct words.
+--------------------------------------------
+Here is the ordered list of words
+a
+alphabetical
+an
+concordance
+file
+in
+is
+list
+of
+text
+the
+unique
+words

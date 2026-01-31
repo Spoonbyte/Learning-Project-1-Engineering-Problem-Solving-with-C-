@@ -1,0 +1,2 @@
+Used the "MyFunc.cpp" program to figure out how programmer defined functions (PDFs) worked in C++ 
+as I needed to use it in my program in order to use switch cases.

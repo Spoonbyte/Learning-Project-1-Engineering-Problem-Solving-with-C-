@@ -2,6 +2,8 @@
 This is a compilation of all the code I wrote as I worked through the problems in the book:<br> 
 "Engineering Problem Solving with C++" by Delores M. Etter
 
+This project lasted from about March 2024 through about March 2025.
+
 Here is the Table of Contents for all the chapters I worked through:<br>
 
 Chapter 2: Simple C++ Programs<br>

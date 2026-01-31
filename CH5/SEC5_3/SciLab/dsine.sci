@@ -1,0 +1,5 @@
+dsine = fscanfMat('dsine.dat')
+plot(dsine(:,1), dsine(:,2))
+title('Damped Sine Function')
+xlabel('Time,s')
+ylabel('f(t)')

@@ -1,0 +1,6 @@
+---------------------------------------- Summary Report --------------------------------------------
+The number of data points =  11
+The average wind speed was 147.718 km/hr 
+The maximum wind speed was 169.3 km/hr occuring at 0.6 hours 
+The minimum wind speed was 127.2 km/hr occuring at 1 hours 
+----------------------------------------------------------------------------------------------------

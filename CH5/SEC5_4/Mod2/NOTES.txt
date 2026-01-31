@@ -1,0 +1,12 @@
+There is a difference between
+
+while (fin >> character) 
+{}
+
+and 
+
+while (fin.get(character))
+{}
+
+It seems like the second option outputs a better layout, which looks closer 
+to the original HTML file.
